@@ -1,0 +1,12 @@
+{
+  "name": "ovs",
+  "version": "0.0.0",
+  "description": "Scrap and use data from OV Chipkaart",
+  "main": "index.js",
+  "author": "Juliano Farias <julianorsfarias@msn.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
